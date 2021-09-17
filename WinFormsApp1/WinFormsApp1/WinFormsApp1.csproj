@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Rodrigo\gitMain\Medidor_de_Velocidade_De_Leitura\Form1.cs" Link="Form1.cs" />
+  </ItemGroup>
+
+</Project>
